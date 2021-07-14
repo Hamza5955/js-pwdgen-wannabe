@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: white;
+  position: relative;
+}
+
+#password,
+#bottom {
+  color: red;
+}
+
+.img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+img {
+  margin-top: 50px;
+  width: 400px;
+}
+.💎 {
+  margin-top: 140px;
+  margin-right: 450px;
+}
+.🚀 {
+  margin-top: 140px;
+  margin-left: 450px;
+}
